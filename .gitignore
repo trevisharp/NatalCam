@@ -1,0 +1,12 @@
+
+*.targets
+*.props
+*.json
+*.cache
+*.info
+*.dll
+*.exe
+*.pdb
+/NatalCam/.idea
+/NatalCam/bin
+/NatalCam/obj
